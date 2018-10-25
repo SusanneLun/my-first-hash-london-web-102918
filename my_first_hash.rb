@@ -1,5 +1,5 @@
 def my_hash
-  my_hash { computer => Apple, pen => Parker }
+  my_hash = { computer => Apple, pen => Parker }
 end
 
 
